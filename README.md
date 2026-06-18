@@ -21,4 +21,5 @@ npm run dev
   (same sanctioned path the website uses).
 
 ## Features
-- [x] Feature 1 — Live Wallet (balance + withdrawal status, realtime)
+- [x] Feature 1 — Home screen (pixel-matched M-PESA dashboard) + live M-PESA balance
+- [x] Wallet hooks — realtime balance & withdrawal status from printpesa
